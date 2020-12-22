@@ -9,4 +9,4 @@ Purchase a sample from our Product Pages linked below!
 
 -----> [**NHD-C0216CU-FSW-GBW-3V3**](https://www.newhavendisplay.com/nhdc0216cufswgbw3v3-p-1851.html)   |   [**Datasheet**](https://www.newhavendisplay.com/specs/NHD-C0216CU-FSW-GBW-3V3.pdf)
 
-[NT7605 Controller](https://www.newhavendisplay.com/app_notes/ST7032.pdf)
+[ST7032 Controller](https://www.newhavendisplay.com/app_notes/ST7032.pdf)
